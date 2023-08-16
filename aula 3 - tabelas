@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+    <title>TABELINHAS</title>
+  </head>
+  <body>
+    <h2 align="center">AULAS</h2>
+    <p><A HREF="HORARIOS">HORARIOS</A></p>
+    <TABLE BORDER=1> 
+      <TR>
+        <TD>BD1</TD> 
+        <TD>UX</TD>
+        <TD>PROG</TD>
+      </TR>
+      <TR> 
+        <TD>MANGUEIRA</TD> 
+        <TD>HERMENEGILDO</TD>
+        <TD>HERMENEGILDO</TD>
+      </TR>
+      <TR> 
+          <TD>18HRS</TD> 
+          <TD>HERMENEGILDO</TD>
+          <TD>20HRS</TD>
+      <TR>
+      </TABLE>
+      <p><A HREF="HORARIOS">RETORNAR A PAGINA</A></p>
+  </body>
+  
+</html>
