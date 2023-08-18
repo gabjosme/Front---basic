@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+    <title>TABELA AMARELA</title>
+  </head>
+  <body>
+    <table BORDER=5>
+        <TR>
+            <TD ROWSPAN=2 colspan=2 BGCOLOR=WHITE></TD>
+            <Th COLSPAN=3 BGCOLOR=YELLOW>Demografia</Th>
+        </TR>
+        <tr>
+            <Th BGCOLOR=YELLOW>Homens</Th><Th BGCOLOR=YELLOW>Meninas</Th><Th BGCOLOR=YELLOW>Professor</Th>
+        </tr>
+        <tr>
+            <td ROWSPAN=4 colspan=1 BGCOLOR=YELLOW>TURMAS</Td>
+            <Td COLSPAN=1 BGCOLOR=YELLOW>A</Td>
+            <td BGCOLOR=YELLOW>20</Td>
+            <td BGCOLOR=YELLOW>5</Td>
+            <td BGCOLOR=YELLOW>Joao pedro</Td>
+        </tr>
+        <tr>
+            <Th COLSPAN=1 BGCOLOR=YELLOW>B</Th>
+            <th BGCOLOR=YELLOW>20</TH>
+            <th BGCOLOR=YELLOW>5</TH>
+            <td BGCOLOR=YELLOW>Joao pedro</Td>
+        </tr>
+        <tr>
+            <Th COLSPAN=1 BGCOLOR=YELLOW>C</Th>
+            <th BGCOLOR=YELLOW>20</TH>
+            <th BGCOLOR=YELLOW>5</TH>
+            <td BGCOLOR=YELLOW>Joao pedro</Td>
+        </tr>
+        <tr>
+            <Th COLSPAN=1 BGCOLOR=YELLOW>D</Th>
+            <th BGCOLOR=YELLOW>20</TH>
+            <th BGCOLOR=YELLOW>5</TH>
+            <td BGCOLOR=YELLOW>Joao pedro</Td>
+        </tr>
+        <tr>
+            <th ROWSPAN=2 colspan=2 BGCOLOR=YELLOW>TOTAL</TH>
+            <th BGCOLOR=YELLOW>20</TH>
+            <th BGCOLOR=YELLOW>5</TH>
+            <td BGCOLOR=YELLOW>Joao pedro</Td>
+        </tr>
+        <CAPTION align="bottom">tabela 1.</CAPTION>
+    </table>
+    
+  </body>
+  
+</html>
