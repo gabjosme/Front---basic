@@ -29,6 +29,25 @@
       <TR>
       </TABLE>
       <p><A HREF="HORARIOS">RETORNAR A PAGINA</A></p>
+
+      <TABLE BORDER=2 CELLPADDING=2>
+    <TR>
+    <TD COLSPAN=3 WIDTH=150 BGCOLOR=BLUE align="center">COORDENADORES</TD>
+    </TR>
+    <tr>
+    <TD>SERGIO</TD><TD>DOUGLAS</TD><TD>CARLOS</TD></TR>
+    </tr>
+    <TR>
+    <TD colspan=3 WIDTH=150 BGCOLOR=BLUE align="center">PROFESSORES</TD>
+    </tr>
+    </TR>
+    <TD>HERMENEGILDO</TD><TD>JULIANA</TD><TD>GILZA</TD></TR>
+    </TABLE>
+
   </body>
   
 </html>
+
+<!cellpadding: Distância entre a “borda” da célula até o seu conteúdo - cellspacing: Distância entreas células da tabela >
+<!<CAPTION legenda da tabela>
+<!ALIGN=MIDDLE WIDTH=200 ajuste de tamanho na tabela e em porcetagem ALIGN=MIDDLE WIDTH=75%>
