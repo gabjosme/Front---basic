@@ -1,0 +1,13 @@
+    ul { list-style-type:none;
+    list-style-image:url(R.gif);
+    border: 3px solid #333333;
+    }
+    p1:not(.bleh) 
+        {
+        color: rgb(0, 0, 0);
+        }
+    p {
+        text-decoration: underline;
+        color: red;
+    }
+            
